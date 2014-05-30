@@ -24,7 +24,7 @@ Since august 2012
     Cloud deployment (git, Heroku), agile methodologies (daily meeting, short iterations, scrum board, restrospectives, TDD), proccess optimisation (continuous integration, with automatics testing).
 
 april 2012 - august 2012
-:  *Web developer at [Believe Digital](http://www.believe.fr/)*
+:  *Internship: Web developer at [Believe Digital](http://www.believe.fr/)*
    (Paris, France)
 
     Development of internal tools for the backend in PHP/MySQL
